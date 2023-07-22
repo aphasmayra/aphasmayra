@@ -1,6 +1,6 @@
 - ✋ Hallo, I’m @aphasmayra
 - ❤️ I’m interested in sashiko and sourdough.
-- 📚 I’m currently learning HTML, CSS, Javascript, PHP, Java and MySQL. Loving it so far.
+- 📚 I’m currently learning Javascript, PHP, Java and MySQL. Loving it so far.
 - 🤝 I’m looking to collaborate on nothing yet. Wanna get the basics in first.
 - 📫 Reach out on Twitter: @aphasmayra
 
