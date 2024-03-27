@@ -1,6 +1,6 @@
-** Hallo, I’m @aphasmayra
+## Hallo, I’m @aphasmayra
 
-I love open source projects and dream of contributing world-changing code in the future.
+I love **open source** and dream of contributing world-changing code in the future.
 
 Reach out on X: @aphasmayra
 
